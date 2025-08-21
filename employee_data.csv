@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,StartDate,Salary
+E1021,Alice,Smith,HR,2022-03-15,60000
+E1022,Bob,Johnson,Engineering,2021-11-01,95000
+E1023,Charlie,Williams,Sales,2022-08-20,78000
+E1024,David,Brown,Engineering,2023-01-10,110000
+E1025,Eve,Jones,Sales,2021-05-30,85000
+E1026,Frank,Garcia,HR,2023-02-28,62000
+E1027,Grace,Miller,Engineering,2022-07-12,98000
+E1028,Henry,Davis,Marketing,2023-01-15,70000
+E1029,Ivy,Rodriguez,Sales,2022-12-01,72000
+E1030,Jack,Martinez,Engineering,2021-09-25,125000
